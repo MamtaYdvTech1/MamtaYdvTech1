@@ -3,7 +3,7 @@
 <h3 align="center">🚀 WordPress Developer | Frontend Developer | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=WordPress+Developer;Frontend+Developer;PHP+%7C+MySQL+%7C+Bootstrap+Expert;HTML5+%7C+CSS3+%7C+JavaScript;Building+Modern+Responsive+Websites;Problem+Solver+%7C+Creative+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=FF00FF&center=true&vCenter=true&width=750&lines=WordPress+Developer;Frontend+Developer;PHP+%7C+MySQL+%7C+Bootstrap+Expert;HTML5+%7C+CSS3+%7C+JavaScript;Building+Modern+Responsive+Websites;Problem+Solver+%7C+Creative+Developer" alt="Typing SVG" />
 </p>
 
 ---
@@ -95,13 +95,13 @@ Creative UI designs built using HTML, CSS, JavaScript & Bootstrap.
 ## 📫 Connect With Me
 
 📧 Email: **itsmamta1ydv@gmail.com**  
-📱 Phone: **+91********* **  
-💻 GitHub: https://github.com/MamtaYdvTech1
+📱 Phone: **+91**********  
+💻 GitHub: https://github.com/MamtaYdvTech1  
 
 ---
 
 ## 🌟 Professional Mindset
 
-> "Build. Learn. Improve. Repeat."
+> 💜 "Build. Learn. Improve. Repeat."
 
-⭐ Always focused on writing clean code, building real-world projects, and growing as a developer.
+⭐ Always focused on clean code, real-world projects, and continuous growth as a developer.

@@ -1,6 +1,6 @@
 # Hi 👋, I'm Mamta Yadav
 
-<h3 align="center" style="color:#ff00ff">🚀 WordPress Developer | Frontend Developer | Problem Solver</h3>
+<h3 align="center" style="color:#ff00ff;">🚀 WordPress Developer | Frontend Developer | Problem Solver</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=WordPress+Developer;Frontend+Developer;PHP+%7C+MySQL+%7C+Bootstrap+Expert;HTML5+%7C+CSS3+%7C+JavaScript;Building+Modern+Responsive+Websites;Problem+Solver+%7C+Creative+Developer" alt="Typing SVG" />

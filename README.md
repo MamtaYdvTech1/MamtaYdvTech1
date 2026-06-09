@@ -95,8 +95,8 @@ Creative UI designs built using HTML, CSS, JavaScript & Bootstrap.
 ## 📫 Connect With Me
 
 📧 Email: **itsmamta1ydv@gmail.com**  
-📱 Phone: **+91 8097944696**  
-💻 GitHub: https://github.com/Vishwakarmasuraj333  
+📱 Phone: **+91********* **  
+💻 GitHub: https://github.com/MamtaYdvTech1
 
 ---
 

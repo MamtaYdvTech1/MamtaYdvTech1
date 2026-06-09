@@ -3,35 +3,38 @@
 <h3 align="center">🚀 WordPress Developer | Frontend Developer | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=WordPress+Developer;Frontend+Developer;HTML5+%7C+CSS3+%7C+JavaScript;Building+Modern+Responsive+Websites;Passionate+Coder+and+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=WordPress+Developer;Frontend+Developer;PHP+%7C+MySQL+%7C+Bootstrap+Expert;HTML5+%7C+CSS3+%7C+JavaScript;Building+Modern+Responsive+Websites;Problem+Solver+%7C+Creative+Developer" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 💫 About Me
 
-💻 Passionate **WordPress Developer** and **Frontend Developer**
+💻 I am a passionate **WordPress & Frontend Developer**
 
-🎯 Focused on creating modern, responsive, and user-friendly websites
+🎯 I build responsive, modern and user-friendly websites
 
-🌱 Currently improving skills in **WordPress, JavaScript, and Web Development**
+🌱 Currently improving my skills in **Web Development & Backend Integration**
 
-⚡ Love solving coding challenges and building real-world projects
+⚡ Strong interest in **problem solving and real-world projects**
 
-🚀 Dedicated to continuous learning and professional growth
+🚀 Focused on becoming a professional full-stack web developer
 
 ---
 
 ## 🚀 Tech Stack
 
-### Frontend
-
+### 🌐 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
 </p>
 
-### CMS & Tools
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=php,mysql" />
+</p>
 
+### 🧩 CMS & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=wordpress,git,vscode" />
 </p>
@@ -40,31 +43,31 @@
 
 ## 🛠 Skills
 
-- HTML5
-- CSS3
-- JavaScript
-- WordPress
-- Responsive Web Design
-- Landing Page Development
-- Website Customization
-- Git & GitHub
-- Problem Solving
+✔ HTML5, CSS3, JavaScript  
+✔ Bootstrap Responsive Design  
+✔ PHP & MySQL Basics  
+✔ WordPress Development & Customization  
+✔ Landing Page & Business Websites  
+✔ UI/UX Responsive Design  
+✔ Git & GitHub Version Control  
+✔ Problem Solving & Debugging  
+✔ Website Optimization Basics  
 
 ---
 
 ## 📌 Featured Projects
 
 ### 🌐 Portfolio Website
-Professional portfolio showcasing projects and skills.
+Personal portfolio showcasing skills and projects with responsive design.
 
 ### 🛒 WordPress E-Commerce Website
-Responsive online store with modern UI.
+Full-featured online store with modern UI and customization.
 
 ### 📱 Responsive Landing Pages
-Mobile-friendly business and product landing pages.
+High-conversion business and product landing pages.
 
 ### 🎨 Frontend UI Projects
-Creative and responsive frontend designs using HTML, CSS & JavaScript.
+Creative UI designs built using HTML, CSS, JavaScript & Bootstrap.
 
 ---
 
@@ -81,7 +84,7 @@ Creative and responsive frontend designs using HTML, CSS & JavaScript.
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Vishwakarmasuraj333&theme=tokyonight&row=1&column=7">
@@ -91,16 +94,14 @@ Creative and responsive frontend designs using HTML, CSS & JavaScript.
 
 ## 📫 Connect With Me
 
-📧 Email: itsmamta1ydv@gmail.com
-
-📱 Phone: +91 8097944696
-
-💻 GitHub: https://github.com/Vishwakarmasuraj333
+📧 Email: **itsmamta1ydv@gmail.com**  
+📱 Phone: **+91 8097944696**  
+💻 GitHub: https://github.com/Vishwakarmasuraj333  
 
 ---
 
-## 🌟 Motto
+## 🌟 Professional Mindset
 
-> "Code. Create. Improve. Repeat."
+> "Build. Learn. Improve. Repeat."
 
-⭐ Always learning new technologies, building better websites, and growing as a developer.
+⭐ Always focused on writing clean code, building real-world projects, and growing as a developer.

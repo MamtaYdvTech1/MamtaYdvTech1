@@ -1,107 +1,124 @@
+<div align="center">
+
 # Hi 👋, I'm Mamta Yadav
 
-<h3 align="center">🚀 WordPress Developer | Frontend Developer | Problem Solver</h3>
+### 🚀 WordPress Developer | Frontend Developer | Aspiring Full-Stack Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=FF00FF&center=true&vCenter=true&width=750&lines=WordPress+Developer;Frontend+Developer;PHP+%7C+MySQL+%7C+Bootstrap+Expert;HTML5+%7C+CSS3+%7C+JavaScript;Building+Modern+Responsive+Websites;Problem+Solver+%7C+Creative+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=680&lines=WordPress+Developer;Frontend+Developer;Aspiring+Full-Stack+Developer;Building+Modern+Responsive+Websites;Problem+Solver+%7C+Continuous+Learner" alt="Typing SVG Banner" />
 </p>
+
+<p align="center">
+  <a href="mailto:itsmamta1ydv@gmail.com">
+    <img src="https://img.shields.io/badge/Email-itsmamta1ydv%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/MamtaYdvTech1">
+    <img src="https://img.shields.io/badge/GitHub-MamtaYdvTech1-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://mamta-dev.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Live-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+</div>
 
 ---
 
 ## 💫 About Me
 
-💻 I am a passionate **WordPress & Frontend Developer**
+I am a passionate **WordPress & Frontend Developer** based in Mumbai, focused on creating clean, responsive, and user-friendly web solutions. I enjoy bridging design and functionality, building modern web interfaces, and continuously growing toward professional full-stack web development.
 
-🎯 I build responsive, modern and user-friendly websites
-
-🌱 Currently improving my skills in **Web Development & Backend Integration**
-
-⚡ Strong interest in **problem solving and real-world projects**
-
-🚀 Focused on becoming a professional full-stack web developer
+- 💻 **Frontend & CMS Focus:** Specializing in responsive web design, WordPress theme customization, and modern UI development.
+- 🌱 **Continuous Growth:** Expanding practical knowledge in full-stack architecture, backend integrations, and clean code principles.
+- ⚡ **Problem Solver:** Enthusiastic about hands-on implementation, debugging, and building real-world projects that deliver value.
+- 🎯 **Career Goal:** Delivering high-quality, accessible, and high-performance digital experiences as a full-stack engineer.
 
 ---
 
-## 🚀 Tech Stack
+## 🛠 Tech Stack & Tools
 
-### 🌐 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+### 🌐 Frontend & UI
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=dark" alt="Frontend Skills: HTML5, CSS3, JavaScript, Bootstrap" />
 </p>
 
-### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=php,mysql" />
+* **Core Web:** HTML5, CSS3, JavaScript (ES6+)
+* **Styling & Frameworks:** Bootstrap, Responsive Web Design, Flexbox / CSS Grid, UI/UX Implementation
+
+### ⚙️ Backend & Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,mysql&theme=dark" alt="Backend Skills: PHP, MySQL" />
 </p>
 
-### 🧩 CMS & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=wordpress,git,vscode" />
+* **Server-side & Data:** PHP, MySQL (Database basics, queries & relational structure)
+
+### 🧩 CMS & Developer Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=wordpress,git,github,vscode&theme=dark" alt="Tools: WordPress, Git, GitHub, VS Code" />
 </p>
 
----
-
-## 🛠 Skills
-
-✔ HTML5, CSS3, JavaScript  
-✔ Bootstrap Responsive Design  
-✔ PHP & MySQL Basics  
-✔ WordPress Development & Customization  
-✔ Landing Page & Business Websites  
-✔ UI/UX Responsive Design  
-✔ Git & GitHub Version Control  
-✔ Problem Solving & Debugging  
-✔ Website Optimization Basics  
+* **Content Management:** WordPress Theme Setup, Child Themes & Site Customization
+* **Workflow & Tools:** Git, GitHub Version Control, Visual Studio Code, Chrome DevTools
 
 ---
 
 ## 📌 Featured Projects
 
-### 🌐 Portfolio Website
-Personal portfolio showcasing skills and projects with responsive design.
+A selection of real projects built, deployed, and maintained on GitHub:
 
-### 🛒 WordPress E-Commerce Website
-Full-featured online store with modern UI and customization.
+### 🚀 [SE Ranking Research Studio](https://github.com/MamtaYdvTech1/SE-Ranking)
+> **Full-Stack SEO & AI Visibility Platform**
+- **Overview:** High-performance SEO, Generative Engine Optimization (GEO), and AI Visibility research platform featuring interactive analytics and search audit tools.
+- **Technologies:** Next.js, TypeScript, Tailwind CSS, Recharts, Lucide Icons
+- **Links:** [🔗 Live Demo](https://seranking.vercel.app) • [📂 GitHub Repository](https://github.com/MamtaYdvTech1/SE-Ranking)
 
-### 📱 Responsive Landing Pages
-High-conversion business and product landing pages.
+### 🛍️ [Upcomer E-Commerce Platform](https://github.com/MamtaYdvTech1/UPCOMER)
+> **Multi-View Online Store & Shopping Experience**
+- **Overview:** Modern, responsive e-commerce platform built with an interactive product showcase, cart management, and fluid UI layout.
+- **Technologies:** HTML5, CSS3, JavaScript, Bootstrap
+- **Links:** [🔗 Live Demo](https://upcomer.vercel.app) • [📂 GitHub Repository](https://github.com/MamtaYdvTech1/UPCOMER)
 
-### 🎨 Frontend UI Projects
-Creative UI designs built using HTML, CSS, JavaScript & Bootstrap.
+### 🥤 [AEROVA Web Application](https://github.com/MamtaYdvTech1/AEROVA)
+> **Modern & Engaging Product Web App**
+- **Overview:** Fast, visually engaging web experience emphasizing sleek presentation, component state handling, and responsive layout across all device viewports.
+- **Technologies:** React, TypeScript, Vite, Tailwind CSS
+- **Links:** [🔗 Live Demo](https://aerova-wheat.vercel.app) • [📂 GitHub Repository](https://github.com/MamtaYdvTech1/AEROVA)
+
+### 🌸 [Mamta Dev Portfolio](https://github.com/MamtaYdvTech1/MamtaDev)
+> **Personal Web Developer Portfolio**
+- **Overview:** Developer showcase highlighting frontend craft, responsive project demonstrations, clean design, and smooth user interactions.
+- **Technologies:** React, TypeScript, Vite
+- **Links:** [🔗 Live Demo](https://mamta-dev.vercel.app) • [📂 GitHub Repository](https://github.com/MamtaYdvTech1/MamtaDev)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity & Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vishwakarmasuraj333&show_icons=true&theme=tokyonight" height="170">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishwakarmasuraj333&theme=tokyonight" height="170">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwakarmasuraj333&layout=compact&theme=tokyonight">
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vishwakarmasuraj333&theme=tokyonight&row=1&column=7">
-</p>
+<div align="center">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=MamtaYdvTech1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Mamta's GitHub Stats" height="165" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MamtaYdvTech1&theme=tokyonight&hide_border=true&background=0d1117" alt="Mamta's GitHub Streak" height="165" />
+  </p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MamtaYdvTech1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Most Used Languages" height="165" />
+  </p>
+</div>
 
 ---
 
 ## 📫 Connect With Me
 
-📧 Email: **itsmamta1ydv@gmail.com**  
-📱 Phone: **+91**********  
-💻 GitHub: https://github.com/MamtaYdvTech1  
+Feel free to reach out for collaborations, project opportunities, or web development discussions:
+
+* 📧 **Email:** [itsmamta1ydv@gmail.com](mailto:itsmamta1ydv@gmail.com)
+* 📱 **Phone:** `+91**********`
+* 💻 **GitHub:** [@MamtaYdvTech1](https://github.com/MamtaYdvTech1)
+* 📍 **Location:** Mumbai, India
 
 ---
 
 ## 🌟 Professional Mindset
 
-> 💜 "Build. Learn. Improve. Repeat."
+> 💜 *"Build. Learn. Improve. Repeat."*
 
-⭐ Always focused on clean code, real-world projects, and continuous growth as a developer.
+Focused on writing clean, accessible code, tackling real-world challenges, and continuously advancing frontend and full-stack engineering skills.
